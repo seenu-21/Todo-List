@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo example using Supabase
 
 - Frontend:
@@ -113,3 +114,7 @@ create policy "Individuals can delete their own todos." on todos for
 - [Supabase](https://supabase.com)
 
 Supabase is open source. We'd love for you to follow along and get involved at https://github.com/supabase/supabase
+=======
+# todo-lsit
+A Real time todo-list made with Next.js
+>>>>>>> 1a932ec0e7aa7d846b6997c3d1f41a3883adb122
